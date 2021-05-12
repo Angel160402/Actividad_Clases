@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Actividad_Clases {
 
     static void encabezados() {
+        System.out.println("ÁNGEL GABRIEL MANRERO HIDALGO");
         System.out.println("UNIVERSIDAD AUTÓNOMA DE CAMPECHE");
         System.out.println("FACULTAD DE INGENIERÍA");
         System.out.println("INGENIERÍA EN SISTEMAS COMPUTACIONALES");
